@@ -1,0 +1,585 @@
+[
+  {
+    "releaseCycle": "8.0.32",
+    "releaseDate": "2023-02-07",
+    "eol": "2024-02-01",
+    "latest": "8.0.32",
+    "latestReleaseDate": "2023-02-07",
+    "type": "minor",
+    "db": "mysql"
+  },
+  {
+    "releaseCycle": "8.0.31",
+    "releaseDate": "2022-11-10",
+    "eol": "2023-11-01",
+    "latest": "8.0.32",
+    "latestReleaseDate": "2023-02-07",
+    "type": "minor",
+    "db": "mysql"
+  },
+  {
+    "releaseCycle": "8.0.30",
+    "releaseDate": "2022-09-09",
+    "eol": "2023-09-01",
+    "latest": "8.0.32",
+    "latestReleaseDate": "2023-02-07",
+    "type": "minor",
+    "db": "mysql"
+  },
+  {
+    "releaseCycle": "8.0.28",
+    "releaseDate": "2022-03-11",
+    "eol": "2023-06-01",
+    "latest": "8.0.32",
+    "latestReleaseDate": "2023-02-07",
+    "type": "minor",
+    "db": "mysql"
+  },
+  {
+    "releaseCycle": "8.0.27",
+    "releaseDate": "2022-01-10",
+    "eol": "2023-04-20",
+    "latest": "8.0.32",
+    "latestReleaseDate": "2023-02-07",
+    "type": "minor",
+    "db": "mysql"
+  },
+  {
+    "releaseCycle": "8.0.26",
+    "releaseDate": "2021-10-25",
+    "eol": "2023-04-20",
+    "latest": "8.0.32",
+    "latestReleaseDate": "2023-02-07",
+    "type": "minor",
+    "db": "mysql"
+  },
+  {
+    "releaseCycle": "8.0.25",
+    "releaseDate": "2021-07-09",
+    "eol": "2023-04-20",
+    "latest": "8.0.32",
+    "latestReleaseDate": "2023-02-07",
+    "type": "minor",
+    "db": "mysql"
+  },
+  {
+    "releaseCycle": "8.0.23",
+    "releaseDate": "2021-03-31",
+    "eol": "2023-04-20",
+    "latest": "8.0.32",
+    "latestReleaseDate": "2023-02-07",
+    "type": "minor",
+    "db": "mysql"
+  },
+  {
+    "releaseCycle": "5.7.41",
+    "releaseDate": "2023-02-07",
+    "eol": "2023-10-01",
+    "latest": "5.7.41",
+    "latestReleaseDate": "2023-02-07",
+    "type": "minor",
+    "db": "mysql"
+  },
+  {
+    "releaseCycle": "5.7.40",
+    "releaseDate": "2022-11-11",
+    "eol": "2023-10-01",
+    "latest": "5.7.41",
+    "latestReleaseDate": "2023-02-07",
+    "type": "minor",
+    "db": "mysql"
+  },
+  {
+    "releaseCycle": "5.7.39",
+    "releaseDate": "2022-09-29",
+    "eol": "2023-09-01",
+    "latest": "5.7.41",
+    "latestReleaseDate": "2023-02-07",
+    "type": "minor",
+    "db": "mysql"
+  },
+  {
+    "releaseCycle": "5.7.38",
+    "releaseDate": "2022-06-06",
+    "eol": "2023-06-01",
+    "latest": "5.7.41",
+    "latestReleaseDate": "2023-02-07",
+    "type": "minor",
+    "db": "mysql"
+  },
+  {
+    "releaseCycle": "5.7.37",
+    "releaseDate": "2022-03-11",
+    "eol": "2023-06-01",
+    "latest": "5.7.41",
+    "latestReleaseDate": "2023-02-07",
+    "type": "minor",
+    "db": "mysql"
+  },
+  {
+    "releaseCycle": "5.7.36",
+    "releaseDate": "2022-01-10",
+    "eol": "2023-04-20",
+    "latest": "5.7.41",
+    "latestReleaseDate": "2023-02-07",
+    "type": "minor",
+    "db": "mysql"
+  },
+  {
+    "releaseCycle": "5.7.34",
+    "releaseDate": "2021-07-09",
+    "eol": "2023-04-20",
+    "latest": "5.7.41",
+    "latestReleaseDate": "2023-02-07",
+    "type": "minor",
+    "db": "mysql"
+  },
+  {
+    "releaseCycle": "5.7.33",
+    "releaseDate": "2021-03-31",
+    "eol": "2023-04-20",
+    "latest": "5.7.41",
+    "latestReleaseDate": "2023-02-07",
+    "type": "minor",
+    "db": "mysql"
+  },
+  {
+    "latest": "8.0.32",
+    "releaseCycle": "8.0",
+    "releaseDate": "2018-10-23",
+    "eol": "2026-04-01",
+    "latestReleaseDate": "2023-02-07",
+    "type": "major",
+    "db": "mysql"
+  },
+  {
+    "latest": "5.7.41",
+    "releaseCycle": "5.7",
+    "releaseDate": "2016-02-22",
+    "eol": "2023-10-01",
+    "latestReleaseDate": "2023-02-07",
+    "type": "major",
+    "db": "mysql"
+  },
+  {
+    "latest": null,
+    "releaseCycle": "5.6",
+    "releaseDate": "2013-07-01",
+    "eol": "2022-03-01",
+    "type": "major",
+    "db": "mysql"
+  },
+  {
+    "releaseCycle": "15.2",
+    "releaseDate": "2023-02-28",
+    "eol": "2024-02-01",
+    "latest": "15.2",
+    "latestReleaseDate": "2023-02-28",
+    "type": "minor",
+    "db": "postgresql"
+  },
+  {
+    "releaseCycle": "14.7",
+    "releaseDate": "2023-03-07",
+    "eol": "2024-03-01",
+    "latest": "14.7",
+    "latestReleaseDate": "2023-03-07",
+    "type": "minor",
+    "db": "postgresql"
+  },
+  {
+    "releaseCycle": "14.6",
+    "releaseDate": "2023-01-24",
+    "eol": "2024-01-01",
+    "latest": "14.7",
+    "latestReleaseDate": "2023-03-07",
+    "type": "minor",
+    "db": "postgresql"
+  },
+  {
+    "releaseCycle": "14.5",
+    "releaseDate": "2022-11-18",
+    "eol": "2023-11-01",
+    "latest": "14.7",
+    "latestReleaseDate": "2023-03-07",
+    "type": "minor",
+    "db": "postgresql"
+  },
+  {
+    "releaseCycle": "14.4",
+    "releaseDate": "2022-09-01",
+    "eol": "2023-09-01",
+    "latest": "14.7",
+    "latestReleaseDate": "2023-03-07",
+    "type": "minor",
+    "db": "postgresql"
+  },
+  {
+    "releaseCycle": "14.3",
+    "releaseDate": "2022-08-04",
+    "eol": "2023-08-01",
+    "latest": "14.7",
+    "latestReleaseDate": "2023-03-07",
+    "type": "minor",
+    "db": "postgresql"
+  },
+  {
+    "releaseCycle": "14.2",
+    "releaseDate": "2022-03-15",
+    "eol": "2023-03-20",
+    "latest": "14.7",
+    "latestReleaseDate": "2023-03-07",
+    "type": "minor",
+    "db": "postgresql"
+  },
+  {
+    "releaseCycle": "14.1",
+    "releaseDate": "2022-01-27",
+    "eol": "2023-03-20",
+    "latest": "14.7",
+    "latestReleaseDate": "2023-03-07",
+    "type": "minor",
+    "db": "postgresql"
+  },
+  {
+    "releaseCycle": "13.10",
+    "releaseDate": "2023-03-07",
+    "eol": "2024-03-01",
+    "latest": "13.10",
+    "latestReleaseDate": "2023-03-07",
+    "type": "minor",
+    "db": "postgresql"
+  },
+  {
+    "releaseCycle": "13.9",
+    "releaseDate": "2023-01-24",
+    "eol": "2024-01-01",
+    "latest": "13.10",
+    "latestReleaseDate": "2023-03-07",
+    "type": "minor",
+    "db": "postgresql"
+  },
+  {
+    "releaseCycle": "13.8",
+    "releaseDate": "2022-11-18",
+    "eol": "2023-11-01",
+    "latest": "13.10",
+    "latestReleaseDate": "2023-03-07",
+    "type": "minor",
+    "db": "postgresql"
+  },
+  {
+    "releaseCycle": "13.7",
+    "releaseDate": "2022-08-04",
+    "eol": "2023-08-01",
+    "latest": "13.10",
+    "latestReleaseDate": "2023-03-07",
+    "type": "minor",
+    "db": "postgresql"
+  },
+  {
+    "releaseCycle": "13.6",
+    "releaseDate": "2022-03-15",
+    "eol": "2023-03-20",
+    "latest": "13.10",
+    "latestReleaseDate": "2023-03-07",
+    "type": "minor",
+    "db": "postgresql"
+  },
+  {
+    "releaseCycle": "13.5",
+    "releaseDate": "2022-01-24",
+    "eol": "2023-03-20",
+    "latest": "13.10",
+    "latestReleaseDate": "2023-03-07",
+    "type": "minor",
+    "db": "postgresql"
+  },
+  {
+    "releaseCycle": "13.4",
+    "releaseDate": "2021-10-01",
+    "eol": "2023-03-20",
+    "latest": "13.10",
+    "latestReleaseDate": "2023-03-07",
+    "type": "minor",
+    "db": "postgresql"
+  },
+  {
+    "releaseCycle": "13.3",
+    "releaseDate": "2021-07-12",
+    "eol": "2023-03-20",
+    "latest": "13.10",
+    "latestReleaseDate": "2023-03-07",
+    "type": "minor",
+    "db": "postgresql"
+  },
+  {
+    "releaseCycle": "12.14",
+    "releaseDate": "2023-03-07",
+    "eol": "2024-03-01",
+    "latest": "12.14",
+    "latestReleaseDate": "2023-03-07",
+    "type": "minor",
+    "db": "postgresql"
+  },
+  {
+    "releaseCycle": "12.13",
+    "releaseDate": "2023-01-24",
+    "eol": "2024-01-01",
+    "latest": "12.14",
+    "latestReleaseDate": "2023-03-07",
+    "type": "minor",
+    "db": "postgresql"
+  },
+  {
+    "releaseCycle": "12.12",
+    "releaseDate": "2022-11-18",
+    "eol": "2023-11-01",
+    "latest": "12.14",
+    "latestReleaseDate": "2023-03-07",
+    "type": "minor",
+    "db": "postgresql"
+  },
+  {
+    "releaseCycle": "12.11",
+    "releaseDate": "2022-08-04",
+    "eol": "2023-08-01",
+    "latest": "12.14",
+    "latestReleaseDate": "2023-03-07",
+    "type": "minor",
+    "db": "postgresql"
+  },
+  {
+    "releaseCycle": "12.10",
+    "releaseDate": "2022-03-15",
+    "eol": "2023-03-20",
+    "latest": "12.14",
+    "latestReleaseDate": "2023-03-07",
+    "type": "minor",
+    "db": "postgresql"
+  },
+  {
+    "releaseCycle": "12.9",
+    "releaseDate": "2022-01-24",
+    "eol": "2023-03-20",
+    "latest": "12.14",
+    "latestReleaseDate": "2023-03-07",
+    "type": "minor",
+    "db": "postgresql"
+  },
+  {
+    "releaseCycle": "12.8",
+    "releaseDate": "2021-10-01",
+    "eol": "2023-03-20",
+    "latest": "12.14",
+    "latestReleaseDate": "2023-03-07",
+    "type": "minor",
+    "db": "postgresql"
+  },
+  {
+    "releaseCycle": "12.7",
+    "releaseDate": "2021-07-12",
+    "eol": "2023-03-20",
+    "latest": "12.14",
+    "latestReleaseDate": "2023-03-07",
+    "type": "minor",
+    "db": "postgresql"
+  },
+  {
+    "releaseCycle": "11.19",
+    "releaseDate": "2023-03-07",
+    "eol": "2023-11-01",
+    "latest": "11.19",
+    "latestReleaseDate": "2023-03-07",
+    "type": "minor",
+    "db": "postgresql"
+  },
+  {
+    "releaseCycle": "11.18",
+    "releaseDate": "2023-01-24",
+    "eol": "2023-11-01",
+    "latest": "11.19",
+    "latestReleaseDate": "2023-03-07",
+    "type": "minor",
+    "db": "postgresql"
+  },
+  {
+    "releaseCycle": "11.17",
+    "releaseDate": "2022-11-18",
+    "eol": "2023-11-01",
+    "latest": "11.19",
+    "latestReleaseDate": "2023-03-07",
+    "type": "minor",
+    "db": "postgresql"
+  },
+  {
+    "releaseCycle": "11.16",
+    "releaseDate": "2022-08-04",
+    "eol": "2023-08-01",
+    "latest": "11.19",
+    "latestReleaseDate": "2023-03-07",
+    "type": "minor",
+    "db": "postgresql"
+  },
+  {
+    "releaseCycle": "11.15",
+    "releaseDate": "2022-03-15",
+    "eol": "2023-03-20",
+    "latest": "11.19",
+    "latestReleaseDate": "2023-03-07",
+    "type": "minor",
+    "db": "postgresql"
+  },
+  {
+    "releaseCycle": "11.14",
+    "releaseDate": "2022-01-24",
+    "eol": "2023-03-20",
+    "latest": "11.19",
+    "latestReleaseDate": "2023-03-07",
+    "type": "minor",
+    "db": "postgresql"
+  },
+  {
+    "releaseCycle": "11.13",
+    "releaseDate": "2021-10-01",
+    "eol": "2023-03-20",
+    "latest": "11.19",
+    "latestReleaseDate": "2023-03-07",
+    "type": "minor",
+    "db": "postgresql"
+  },
+  {
+    "releaseCycle": "11.12",
+    "releaseDate": "2021-07-12",
+    "eol": "2023-03-20",
+    "latest": "11.19",
+    "latestReleaseDate": "2023-03-07",
+    "type": "minor",
+    "db": "postgresql"
+  },
+  {
+    "releaseCycle": "10.23",
+    "releaseDate": "2023-01-24",
+    "eol": "2023-04-17",
+    "latest": "10.23",
+    "latestReleaseDate": "2023-01-24",
+    "type": "minor",
+    "db": "postgresql"
+  },
+  {
+    "releaseCycle": "10.22",
+    "releaseDate": "2022-11-18",
+    "eol": "2023-04-17",
+    "latest": "10.23",
+    "latestReleaseDate": "2023-01-24",
+    "type": "minor",
+    "db": "postgresql"
+  },
+  {
+    "releaseCycle": "10.21",
+    "releaseDate": "2022-08-04",
+    "eol": "2023-04-17",
+    "latest": "10.23",
+    "latestReleaseDate": "2023-01-24",
+    "type": "minor",
+    "db": "postgresql"
+  },
+  {
+    "releaseCycle": "10.20",
+    "releaseDate": "2022-03-15",
+    "eol": "2023-03-20",
+    "latest": "10.23",
+    "latestReleaseDate": "2023-01-24",
+    "type": "minor",
+    "db": "postgresql"
+  },
+  {
+    "releaseCycle": "10.19",
+    "releaseDate": "2022-01-24",
+    "eol": "2023-03-20",
+    "latest": "10.23",
+    "latestReleaseDate": "2023-01-24",
+    "type": "minor",
+    "db": "postgresql"
+  },
+  {
+    "releaseCycle": "10.18",
+    "releaseDate": "2021-10-01",
+    "eol": "2023-03-20",
+    "latest": "10.23",
+    "latestReleaseDate": "2023-01-24",
+    "type": "minor",
+    "db": "postgresql"
+  },
+  {
+    "releaseCycle": "10.17",
+    "releaseDate": "2021-07-12",
+    "eol": "2023-03-20",
+    "latest": "10.23",
+    "latestReleaseDate": "2023-01-24",
+    "type": "minor",
+    "db": "postgresql"
+  },
+  {
+    "latest": "15.2",
+    "releaseCycle": "15",
+    "releaseDate": "2023-02-27",
+    "eol": "2027-11-01",
+    "latestReleaseDate": "2023-02-28",
+    "type": "major",
+    "db": "postgresql"
+  },
+  {
+    "latest": "14.7",
+    "releaseCycle": "14",
+    "releaseDate": "2022-02-03",
+    "eol": "2026-11-01",
+    "latestReleaseDate": "2023-03-07",
+    "type": "major",
+    "db": "postgresql"
+  },
+  {
+    "latest": "13.10",
+    "releaseCycle": "13",
+    "releaseDate": "2021-02-24",
+    "eol": "2025-11-01",
+    "latestReleaseDate": "2023-03-07",
+    "type": "major",
+    "db": "postgresql"
+  },
+  {
+    "latest": "12.14",
+    "releaseCycle": "12",
+    "releaseDate": "2020-03-31",
+    "eol": "2024-11-01",
+    "latestReleaseDate": "2023-03-07",
+    "type": "major",
+    "db": "postgresql"
+  },
+  {
+    "latest": "11.19",
+    "releaseCycle": "11",
+    "releaseDate": "2019-03-13",
+    "eol": "2023-11-01",
+    "latestReleaseDate": "2023-03-07",
+    "type": "major",
+    "db": "postgresql"
+  },
+  {
+    "latest": "10.23",
+    "releaseCycle": "10",
+    "releaseDate": "2018-02-27",
+    "eol": "2023-04-01",
+    "latestReleaseDate": "2023-01-24",
+    "type": "major",
+    "db": "postgresql"
+  },
+  {
+    "latest": null,
+    "releaseCycle": "9.6",
+    "releaseDate": "2016-11-11",
+    "eol": "2022-04-30",
+    "type": "major",
+    "db": "postgresql"
+  }
+]
