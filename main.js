@@ -135,10 +135,5 @@ for (const [db, url] of Object.entries(dbs)) {
   allData.push(...allVersions)
 }
 
-
-// testing
-const random = String(Math.random())
-const filename = format(new Date()).slice(0, -3) + random + '.json'
-
-// const filename = format(new Date()).slice(0, -3) + '.json'
+const filename = format(new Date()).slice(0, -3) + '.json'
 fs.writeFileSync(filename, JSON.stringify(allData, null, 2))
