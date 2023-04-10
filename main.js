@@ -136,4 +136,4 @@ for (const [db, url] of Object.entries(dbs)) {
 }
 
 const filename = format(new Date()).slice(0, -3) + '.json'
-fs.writeFileSync(filename, JSON.stringify(allData, null, 2))
+fs.writeFileSync('data/' + filename, JSON.stringify(allData, null, 2))
