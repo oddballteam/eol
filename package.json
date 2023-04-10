@@ -1,0 +1,19 @@
+{
+  "name": "endoflife",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "json": "node main.js json",
+    "minor": "node main.js include minor"
+  },
+  "keywords": [],
+  "author": "codabool",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.3.5",
+    "gray-matter": "^4.0.3",
+    "jsdom": "^21.1.1"
+  }
+}

@@ -1,0 +1,39 @@
+name: eol
+on:
+  push:
+    branchs: [main]
+jobs:
+  deploy:
+    if: "! contains(github.event.commits[0].message, '[no ci]')"
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Extract Pipline Vars
+        run: |
+          repo=${GITHUB_REPOSITORY#CodaBool/}
+          build=$(echo "${SHA:0:7}.${RUN_NUMBER}"|tr -d '"')
+          echo "stage=${GITHUB_REF#refs/heads/}" >> $GITHUB_ENV
+          echo "run=${RUN_NUMBER}" >> $GITHUB_ENV
+          echo "repo=${repo,,}" >> $GITHUB_ENV
+          echo "build=${build}" >> $GITHUB_ENV
+        env:
+          SHA: ${{ toJSON(github.sha) }}
+          RUN_NUMBER: ${{ toJSON(github.run_number) }}
+
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '18' # https://github.com/actions/runner-images/blob/main/images/linux/Ubuntu2204-Readme.md#nodejs
+      
+      - name: scrape
+        run: |
+          npm ci
+          npm start
+
+      - name: commit
+        run: |
+          date > generated.txt
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "generated-${{ env.build }}"
+          git push
