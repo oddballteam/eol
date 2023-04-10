@@ -1,13 +1,14 @@
 name: eol
 on:
-  push:
-    branchs: [main]
+  schedule:
+    - cron: "*/5 * * * *"
 jobs:
   deploy:
     if: "! contains(github.event.commits[0].message, '[no ci]')"
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+
       - name: Extract Pipline Vars
         run: |
           repo=${GITHUB_REPOSITORY#CodaBool/}
@@ -34,5 +35,5 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
-          git commit -m "generated-${{ env.build }}"
+          git commit -m "#${{ env.run }}"
           git push
