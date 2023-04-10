@@ -1,7 +1,7 @@
 name: eol
 on:
   schedule:
-    - cron:  '* * * * *'
+    - cron: '*/5 * * * *'
 jobs:
   deploy:
     if: "! contains(github.event.commits[0].message, '[no ci]')"
