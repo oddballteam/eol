@@ -12,7 +12,7 @@ function format(date) {
 
 const dbs = {
   'mysql': 'https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/MySQL.Concepts.VersionMgmt.html',
-  'postgresql': 'https://docs.aws.amazon.com/AmazonRDS/latest/PostgreSQLReleaseNotes/postgresql-release-calendar.html',
+  'postgres': 'https://docs.aws.amazon.com/AmazonRDS/latest/PostgreSQLReleaseNotes/postgresql-release-calendar.html',
 }
 
 for (const [db, url] of Object.entries(dbs)) {

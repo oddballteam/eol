@@ -192,459 +192,312 @@
     "releaseCycle": "15.2",
     "releaseDate": "2023-02-28",
     "eol": "2024-02-01",
-    "latest": "15.2",
-    "latestReleaseDate": "2023-02-28",
     "type": "minor",
-    "db": "postgresql",
-    "id": "postgresql-15.2"
+    "db": "postgres",
+    "id": "postgres-15.2"
   },
   {
     "releaseCycle": "14.7",
     "releaseDate": "2023-03-07",
     "eol": "2024-03-01",
-    "latest": "14.7",
-    "latestReleaseDate": "2023-03-07",
     "type": "minor",
-    "db": "postgresql",
-    "id": "postgresql-14.7"
+    "db": "postgres",
+    "id": "postgres-14.7"
   },
   {
     "releaseCycle": "14.6",
     "releaseDate": "2023-01-24",
     "eol": "2024-01-01",
-    "latest": "14.7",
-    "latestReleaseDate": "2023-03-07",
     "type": "minor",
-    "db": "postgresql",
-    "id": "postgresql-14.6"
+    "db": "postgres",
+    "id": "postgres-14.6"
   },
   {
     "releaseCycle": "14.5",
     "releaseDate": "2022-11-18",
     "eol": "2023-11-01",
-    "latest": "14.7",
-    "latestReleaseDate": "2023-03-07",
     "type": "minor",
-    "db": "postgresql",
-    "id": "postgresql-14.5"
+    "db": "postgres",
+    "id": "postgres-14.5"
   },
   {
     "releaseCycle": "14.4",
     "releaseDate": "2022-09-01",
     "eol": "2023-09-01",
-    "latest": "14.7",
-    "latestReleaseDate": "2023-03-07",
     "type": "minor",
-    "db": "postgresql",
-    "id": "postgresql-14.4"
+    "db": "postgres",
+    "id": "postgres-14.4"
   },
   {
     "releaseCycle": "14.3",
     "releaseDate": "2022-08-04",
     "eol": "2023-08-01",
-    "latest": "14.7",
-    "latestReleaseDate": "2023-03-07",
     "type": "minor",
-    "db": "postgresql",
-    "id": "postgresql-14.3"
+    "db": "postgres",
+    "id": "postgres-14.3"
   },
   {
     "releaseCycle": "14.2",
     "releaseDate": "2022-03-15",
     "eol": "2023-03-20",
-    "latest": "14.7",
-    "latestReleaseDate": "2023-03-07",
     "type": "minor",
-    "db": "postgresql",
-    "id": "postgresql-14.2"
+    "db": "postgres",
+    "id": "postgres-14.2"
   },
   {
     "releaseCycle": "14.1",
     "releaseDate": "2022-01-27",
     "eol": "2023-03-20",
-    "latest": "14.7",
-    "latestReleaseDate": "2023-03-07",
     "type": "minor",
-    "db": "postgresql",
-    "id": "postgresql-14.1"
+    "db": "postgres",
+    "id": "postgres-14.1"
   },
   {
     "releaseCycle": "13.10",
     "releaseDate": "2023-03-07",
     "eol": "2024-03-01",
-    "latest": "13.10",
-    "latestReleaseDate": "2023-03-07",
     "type": "minor",
-    "db": "postgresql",
-    "id": "postgresql-13.10"
+    "db": "postgres",
+    "id": "postgres-13.10"
   },
   {
     "releaseCycle": "13.9",
     "releaseDate": "2023-01-24",
     "eol": "2024-01-01",
-    "latest": "13.10",
-    "latestReleaseDate": "2023-03-07",
     "type": "minor",
-    "db": "postgresql",
-    "id": "postgresql-13.9"
+    "db": "postgres",
+    "id": "postgres-13.9"
   },
   {
     "releaseCycle": "13.8",
     "releaseDate": "2022-11-18",
     "eol": "2023-11-01",
-    "latest": "13.10",
-    "latestReleaseDate": "2023-03-07",
     "type": "minor",
-    "db": "postgresql",
-    "id": "postgresql-13.8"
+    "db": "postgres",
+    "id": "postgres-13.8"
   },
   {
     "releaseCycle": "13.7",
     "releaseDate": "2022-08-04",
     "eol": "2023-08-01",
-    "latest": "13.10",
-    "latestReleaseDate": "2023-03-07",
     "type": "minor",
-    "db": "postgresql",
-    "id": "postgresql-13.7"
+    "db": "postgres",
+    "id": "postgres-13.7"
   },
   {
     "releaseCycle": "13.6",
     "releaseDate": "2022-03-15",
     "eol": "2023-03-20",
-    "latest": "13.10",
-    "latestReleaseDate": "2023-03-07",
     "type": "minor",
-    "db": "postgresql",
-    "id": "postgresql-13.6"
+    "db": "postgres",
+    "id": "postgres-13.6"
   },
   {
     "releaseCycle": "13.5",
     "releaseDate": "2022-01-24",
     "eol": "2023-03-20",
-    "latest": "13.10",
-    "latestReleaseDate": "2023-03-07",
     "type": "minor",
-    "db": "postgresql",
-    "id": "postgresql-13.5"
+    "db": "postgres",
+    "id": "postgres-13.5"
   },
   {
     "releaseCycle": "13.4",
     "releaseDate": "2021-10-01",
     "eol": "2023-03-20",
-    "latest": "13.10",
-    "latestReleaseDate": "2023-03-07",
     "type": "minor",
-    "db": "postgresql",
-    "id": "postgresql-13.4"
+    "db": "postgres",
+    "id": "postgres-13.4"
   },
   {
     "releaseCycle": "13.3",
     "releaseDate": "2021-07-12",
     "eol": "2023-03-20",
-    "latest": "13.10",
-    "latestReleaseDate": "2023-03-07",
     "type": "minor",
-    "db": "postgresql",
-    "id": "postgresql-13.3"
+    "db": "postgres",
+    "id": "postgres-13.3"
   },
   {
     "releaseCycle": "12.14",
     "releaseDate": "2023-03-07",
     "eol": "2024-03-01",
-    "latest": "12.14",
-    "latestReleaseDate": "2023-03-07",
     "type": "minor",
-    "db": "postgresql",
-    "id": "postgresql-12.14"
+    "db": "postgres",
+    "id": "postgres-12.14"
   },
   {
     "releaseCycle": "12.13",
     "releaseDate": "2023-01-24",
     "eol": "2024-01-01",
-    "latest": "12.14",
-    "latestReleaseDate": "2023-03-07",
     "type": "minor",
-    "db": "postgresql",
-    "id": "postgresql-12.13"
+    "db": "postgres",
+    "id": "postgres-12.13"
   },
   {
     "releaseCycle": "12.12",
     "releaseDate": "2022-11-18",
     "eol": "2023-11-01",
-    "latest": "12.14",
-    "latestReleaseDate": "2023-03-07",
     "type": "minor",
-    "db": "postgresql",
-    "id": "postgresql-12.12"
+    "db": "postgres",
+    "id": "postgres-12.12"
   },
   {
     "releaseCycle": "12.11",
     "releaseDate": "2022-08-04",
     "eol": "2023-08-01",
-    "latest": "12.14",
-    "latestReleaseDate": "2023-03-07",
     "type": "minor",
-    "db": "postgresql",
-    "id": "postgresql-12.11"
+    "db": "postgres",
+    "id": "postgres-12.11"
   },
   {
     "releaseCycle": "12.10",
     "releaseDate": "2022-03-15",
     "eol": "2023-03-20",
-    "latest": "12.14",
-    "latestReleaseDate": "2023-03-07",
     "type": "minor",
-    "db": "postgresql",
-    "id": "postgresql-12.10"
+    "db": "postgres",
+    "id": "postgres-12.10"
   },
   {
     "releaseCycle": "12.9",
     "releaseDate": "2022-01-24",
     "eol": "2023-03-20",
-    "latest": "12.14",
-    "latestReleaseDate": "2023-03-07",
     "type": "minor",
-    "db": "postgresql",
-    "id": "postgresql-12.9"
+    "db": "postgres",
+    "id": "postgres-12.9"
   },
   {
     "releaseCycle": "12.8",
     "releaseDate": "2021-10-01",
     "eol": "2023-03-20",
-    "latest": "12.14",
-    "latestReleaseDate": "2023-03-07",
     "type": "minor",
-    "db": "postgresql",
-    "id": "postgresql-12.8"
+    "db": "postgres",
+    "id": "postgres-12.8"
   },
   {
     "releaseCycle": "12.7",
     "releaseDate": "2021-07-12",
     "eol": "2023-03-20",
-    "latest": "12.14",
-    "latestReleaseDate": "2023-03-07",
     "type": "minor",
-    "db": "postgresql",
-    "id": "postgresql-12.7"
+    "db": "postgres",
+    "id": "postgres-12.7"
   },
   {
     "releaseCycle": "11.19",
     "releaseDate": "2023-03-07",
     "eol": "2023-11-01",
-    "latest": "11.19",
-    "latestReleaseDate": "2023-03-07",
     "type": "minor",
-    "db": "postgresql",
-    "id": "postgresql-11.19"
+    "db": "postgres",
+    "id": "postgres-11.19"
   },
   {
     "releaseCycle": "11.18",
     "releaseDate": "2023-01-24",
     "eol": "2023-11-01",
-    "latest": "11.19",
-    "latestReleaseDate": "2023-03-07",
     "type": "minor",
-    "db": "postgresql",
-    "id": "postgresql-11.18"
+    "db": "postgres",
+    "id": "postgres-11.18"
   },
   {
     "releaseCycle": "11.17",
     "releaseDate": "2022-11-18",
     "eol": "2023-11-01",
-    "latest": "11.19",
-    "latestReleaseDate": "2023-03-07",
     "type": "minor",
-    "db": "postgresql",
-    "id": "postgresql-11.17"
+    "db": "postgres",
+    "id": "postgres-11.17"
   },
   {
     "releaseCycle": "11.16",
     "releaseDate": "2022-08-04",
     "eol": "2023-08-01",
-    "latest": "11.19",
-    "latestReleaseDate": "2023-03-07",
     "type": "minor",
-    "db": "postgresql",
-    "id": "postgresql-11.16"
+    "db": "postgres",
+    "id": "postgres-11.16"
   },
   {
     "releaseCycle": "11.15",
     "releaseDate": "2022-03-15",
     "eol": "2023-03-20",
-    "latest": "11.19",
-    "latestReleaseDate": "2023-03-07",
     "type": "minor",
-    "db": "postgresql",
-    "id": "postgresql-11.15"
+    "db": "postgres",
+    "id": "postgres-11.15"
   },
   {
     "releaseCycle": "11.14",
     "releaseDate": "2022-01-24",
     "eol": "2023-03-20",
-    "latest": "11.19",
-    "latestReleaseDate": "2023-03-07",
     "type": "minor",
-    "db": "postgresql",
-    "id": "postgresql-11.14"
+    "db": "postgres",
+    "id": "postgres-11.14"
   },
   {
     "releaseCycle": "11.13",
     "releaseDate": "2021-10-01",
     "eol": "2023-03-20",
-    "latest": "11.19",
-    "latestReleaseDate": "2023-03-07",
     "type": "minor",
-    "db": "postgresql",
-    "id": "postgresql-11.13"
+    "db": "postgres",
+    "id": "postgres-11.13"
   },
   {
     "releaseCycle": "11.12",
     "releaseDate": "2021-07-12",
     "eol": "2023-03-20",
-    "latest": "11.19",
-    "latestReleaseDate": "2023-03-07",
     "type": "minor",
-    "db": "postgresql",
-    "id": "postgresql-11.12"
+    "db": "postgres",
+    "id": "postgres-11.12"
   },
   {
     "releaseCycle": "10.23",
     "releaseDate": "2023-01-24",
     "eol": "2023-04-17",
-    "latest": "10.23",
-    "latestReleaseDate": "2023-01-24",
     "type": "minor",
-    "db": "postgresql",
-    "id": "postgresql-10.23"
+    "db": "postgres",
+    "id": "postgres-10.23"
   },
   {
     "releaseCycle": "10.22",
     "releaseDate": "2022-11-18",
     "eol": "2023-04-17",
-    "latest": "10.23",
-    "latestReleaseDate": "2023-01-24",
     "type": "minor",
-    "db": "postgresql",
-    "id": "postgresql-10.22"
+    "db": "postgres",
+    "id": "postgres-10.22"
   },
   {
     "releaseCycle": "10.21",
     "releaseDate": "2022-08-04",
     "eol": "2023-04-17",
-    "latest": "10.23",
-    "latestReleaseDate": "2023-01-24",
     "type": "minor",
-    "db": "postgresql",
-    "id": "postgresql-10.21"
+    "db": "postgres",
+    "id": "postgres-10.21"
   },
   {
     "releaseCycle": "10.20",
     "releaseDate": "2022-03-15",
     "eol": "2023-03-20",
-    "latest": "10.23",
-    "latestReleaseDate": "2023-01-24",
     "type": "minor",
-    "db": "postgresql",
-    "id": "postgresql-10.20"
+    "db": "postgres",
+    "id": "postgres-10.20"
   },
   {
     "releaseCycle": "10.19",
     "releaseDate": "2022-01-24",
     "eol": "2023-03-20",
-    "latest": "10.23",
-    "latestReleaseDate": "2023-01-24",
     "type": "minor",
-    "db": "postgresql",
-    "id": "postgresql-10.19"
+    "db": "postgres",
+    "id": "postgres-10.19"
   },
   {
     "releaseCycle": "10.18",
     "releaseDate": "2021-10-01",
     "eol": "2023-03-20",
-    "latest": "10.23",
-    "latestReleaseDate": "2023-01-24",
     "type": "minor",
-    "db": "postgresql",
-    "id": "postgresql-10.18"
+    "db": "postgres",
+    "id": "postgres-10.18"
   },
   {
     "releaseCycle": "10.17",
     "releaseDate": "2021-07-12",
     "eol": "2023-03-20",
-    "latest": "10.23",
-    "latestReleaseDate": "2023-01-24",
     "type": "minor",
-    "db": "postgresql",
-    "id": "postgresql-10.17"
-  },
-  {
-    "latest": "15.2",
-    "releaseCycle": "15",
-    "releaseDate": "2023-02-27",
-    "eol": "2027-11-01",
-    "latestReleaseDate": "2023-02-28",
-    "type": "major",
-    "db": "postgresql",
-    "id": "postgresql-15"
-  },
-  {
-    "latest": "14.7",
-    "releaseCycle": "14",
-    "releaseDate": "2022-02-03",
-    "eol": "2026-11-01",
-    "latestReleaseDate": "2023-03-07",
-    "type": "major",
-    "db": "postgresql",
-    "id": "postgresql-14"
-  },
-  {
-    "latest": "13.10",
-    "releaseCycle": "13",
-    "releaseDate": "2021-02-24",
-    "eol": "2025-11-01",
-    "latestReleaseDate": "2023-03-07",
-    "type": "major",
-    "db": "postgresql",
-    "id": "postgresql-13"
-  },
-  {
-    "latest": "12.14",
-    "releaseCycle": "12",
-    "releaseDate": "2020-03-31",
-    "eol": "2024-11-01",
-    "latestReleaseDate": "2023-03-07",
-    "type": "major",
-    "db": "postgresql",
-    "id": "postgresql-12"
-  },
-  {
-    "latest": "11.19",
-    "releaseCycle": "11",
-    "releaseDate": "2019-03-13",
-    "eol": "2023-11-01",
-    "latestReleaseDate": "2023-03-07",
-    "type": "major",
-    "db": "postgresql",
-    "id": "postgresql-11"
-  },
-  {
-    "latest": "10.23",
-    "releaseCycle": "10",
-    "releaseDate": "2018-02-27",
-    "eol": "2023-04-01",
-    "latestReleaseDate": "2023-01-24",
-    "type": "major",
-    "db": "postgresql",
-    "id": "postgresql-10"
-  },
-  {
-    "latest": "",
-    "releaseCycle": "9.6",
-    "releaseDate": "2016-11-11",
-    "eol": "2022-04-30",
-    "type": "major",
-    "db": "postgresql",
-    "id": "postgresql-9.6"
+    "db": "postgres",
+    "id": "postgres-10.17"
   }
 ]
