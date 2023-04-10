@@ -60,9 +60,9 @@ for (const [db, url] of Object.entries(dbs)) {
           const lines = col.textContent.trim().split('\n')
           if (lines.length > 1) {
             let latestMinor = lines[1].replace(/[^0-9.]/g, '')
-            if (!latestMinor) {
-              latestMinor = null
-            }
+            // if (!latestMinor) {
+            //   latestMinor = null
+            // }
             release.latest = latestMinor
           }
           const version = lines[0].replace(/[^0-9.]/g, '')
@@ -130,8 +130,9 @@ for (const [db, url] of Object.entries(dbs)) {
   const allVersions = [...minors, ...majors]
   for (const release of allVersions) {
     release.db = db
-    release.releaseCycle =  release.releaseCycle
+    release.id = `${db}-${release.releaseCycle}`
   }
+
   allData.push(...allVersions)
 }
 
