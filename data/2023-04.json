@@ -7,7 +7,8 @@
     "latestReleaseDate": "2023-02-07",
     "type": "minor",
     "db": "mysql",
-    "id": "mysql-8.0.32"
+    "id": "mysql-8.0.32",
+    "scraped": "2023-04-03"
   },
   {
     "releaseCycle": "8.0.31",
@@ -17,7 +18,8 @@
     "latestReleaseDate": "2023-02-07",
     "type": "minor",
     "db": "mysql",
-    "id": "mysql-8.0.31"
+    "id": "mysql-8.0.31",
+    "scraped": "2023-04-03"
   },
   {
     "releaseCycle": "8.0.30",
@@ -27,7 +29,8 @@
     "latestReleaseDate": "2023-02-07",
     "type": "minor",
     "db": "mysql",
-    "id": "mysql-8.0.30"
+    "id": "mysql-8.0.30",
+    "scraped": "2023-04-03"
   },
   {
     "releaseCycle": "8.0.28",
@@ -37,7 +40,8 @@
     "latestReleaseDate": "2023-02-07",
     "type": "minor",
     "db": "mysql",
-    "id": "mysql-8.0.28"
+    "id": "mysql-8.0.28",
+    "scraped": "2023-04-03"
   },
   {
     "releaseCycle": "8.0.27",
@@ -47,7 +51,8 @@
     "latestReleaseDate": "2023-02-07",
     "type": "minor",
     "db": "mysql",
-    "id": "mysql-8.0.27"
+    "id": "mysql-8.0.27",
+    "scraped": "2023-04-03"
   },
   {
     "releaseCycle": "8.0.26",
@@ -57,7 +62,8 @@
     "latestReleaseDate": "2023-02-07",
     "type": "minor",
     "db": "mysql",
-    "id": "mysql-8.0.26"
+    "id": "mysql-8.0.26",
+    "scraped": "2023-04-03"
   },
   {
     "releaseCycle": "8.0.25",
@@ -67,7 +73,8 @@
     "latestReleaseDate": "2023-02-07",
     "type": "minor",
     "db": "mysql",
-    "id": "mysql-8.0.25"
+    "id": "mysql-8.0.25",
+    "scraped": "2023-04-03"
   },
   {
     "releaseCycle": "8.0.23",
@@ -77,7 +84,8 @@
     "latestReleaseDate": "2023-02-07",
     "type": "minor",
     "db": "mysql",
-    "id": "mysql-8.0.23"
+    "id": "mysql-8.0.23",
+    "scraped": "2023-04-03"
   },
   {
     "releaseCycle": "5.7.41",
@@ -87,7 +95,8 @@
     "latestReleaseDate": "2023-02-07",
     "type": "minor",
     "db": "mysql",
-    "id": "mysql-5.7.41"
+    "id": "mysql-5.7.41",
+    "scraped": "2023-04-03"
   },
   {
     "releaseCycle": "5.7.40",
@@ -97,7 +106,8 @@
     "latestReleaseDate": "2023-02-07",
     "type": "minor",
     "db": "mysql",
-    "id": "mysql-5.7.40"
+    "id": "mysql-5.7.40",
+    "scraped": "2023-04-03"
   },
   {
     "releaseCycle": "5.7.39",
@@ -107,7 +117,8 @@
     "latestReleaseDate": "2023-02-07",
     "type": "minor",
     "db": "mysql",
-    "id": "mysql-5.7.39"
+    "id": "mysql-5.7.39",
+    "scraped": "2023-04-03"
   },
   {
     "releaseCycle": "5.7.38",
@@ -117,7 +128,8 @@
     "latestReleaseDate": "2023-02-07",
     "type": "minor",
     "db": "mysql",
-    "id": "mysql-5.7.38"
+    "id": "mysql-5.7.38",
+    "scraped": "2023-04-03"
   },
   {
     "releaseCycle": "5.7.37",
@@ -127,7 +139,8 @@
     "latestReleaseDate": "2023-02-07",
     "type": "minor",
     "db": "mysql",
-    "id": "mysql-5.7.37"
+    "id": "mysql-5.7.37",
+    "scraped": "2023-04-03"
   },
   {
     "releaseCycle": "5.7.36",
@@ -137,7 +150,8 @@
     "latestReleaseDate": "2023-02-07",
     "type": "minor",
     "db": "mysql",
-    "id": "mysql-5.7.36"
+    "id": "mysql-5.7.36",
+    "scraped": "2023-04-03"
   },
   {
     "releaseCycle": "5.7.34",
@@ -147,7 +161,8 @@
     "latestReleaseDate": "2023-02-07",
     "type": "minor",
     "db": "mysql",
-    "id": "mysql-5.7.34"
+    "id": "mysql-5.7.34",
+    "scraped": "2023-04-03"
   },
   {
     "releaseCycle": "5.7.33",
@@ -157,7 +172,8 @@
     "latestReleaseDate": "2023-02-07",
     "type": "minor",
     "db": "mysql",
-    "id": "mysql-5.7.33"
+    "id": "mysql-5.7.33",
+    "scraped": "2023-04-03"
   },
   {
     "latest": "8.0.32",
@@ -167,7 +183,8 @@
     "latestReleaseDate": "2023-02-07",
     "type": "major",
     "db": "mysql",
-    "id": "mysql-8.0"
+    "id": "mysql-8.0",
+    "scraped": "2023-04-03"
   },
   {
     "latest": "5.7.41",
@@ -177,7 +194,8 @@
     "latestReleaseDate": "2023-02-07",
     "type": "major",
     "db": "mysql",
-    "id": "mysql-5.7"
+    "id": "mysql-5.7",
+    "scraped": "2023-04-03"
   },
   {
     "latest": "",
@@ -186,7 +204,8 @@
     "eol": "2022-03-01",
     "type": "major",
     "db": "mysql",
-    "id": "mysql-5.6"
+    "id": "mysql-5.6",
+    "scraped": "2023-04-03"
   },
   {
     "releaseCycle": "15.2",
@@ -194,7 +213,8 @@
     "eol": "2024-02-01",
     "type": "minor",
     "db": "postgres",
-    "id": "postgres-15.2"
+    "id": "postgres-15.2",
+    "scraped": "2023-04-03"
   },
   {
     "releaseCycle": "14.7",
@@ -202,7 +222,8 @@
     "eol": "2024-03-01",
     "type": "minor",
     "db": "postgres",
-    "id": "postgres-14.7"
+    "id": "postgres-14.7",
+    "scraped": "2023-04-03"
   },
   {
     "releaseCycle": "14.6",
@@ -210,7 +231,8 @@
     "eol": "2024-01-01",
     "type": "minor",
     "db": "postgres",
-    "id": "postgres-14.6"
+    "id": "postgres-14.6",
+    "scraped": "2023-04-03"
   },
   {
     "releaseCycle": "14.5",
@@ -218,7 +240,8 @@
     "eol": "2023-11-01",
     "type": "minor",
     "db": "postgres",
-    "id": "postgres-14.5"
+    "id": "postgres-14.5",
+    "scraped": "2023-04-03"
   },
   {
     "releaseCycle": "14.4",
@@ -226,7 +249,8 @@
     "eol": "2023-09-01",
     "type": "minor",
     "db": "postgres",
-    "id": "postgres-14.4"
+    "id": "postgres-14.4",
+    "scraped": "2023-04-03"
   },
   {
     "releaseCycle": "14.3",
@@ -234,7 +258,8 @@
     "eol": "2023-08-01",
     "type": "minor",
     "db": "postgres",
-    "id": "postgres-14.3"
+    "id": "postgres-14.3",
+    "scraped": "2023-04-03"
   },
   {
     "releaseCycle": "14.2",
@@ -242,7 +267,8 @@
     "eol": "2023-03-20",
     "type": "minor",
     "db": "postgres",
-    "id": "postgres-14.2"
+    "id": "postgres-14.2",
+    "scraped": "2023-04-03"
   },
   {
     "releaseCycle": "14.1",
@@ -250,7 +276,8 @@
     "eol": "2023-03-20",
     "type": "minor",
     "db": "postgres",
-    "id": "postgres-14.1"
+    "id": "postgres-14.1",
+    "scraped": "2023-04-03"
   },
   {
     "releaseCycle": "13.10",
@@ -258,7 +285,8 @@
     "eol": "2024-03-01",
     "type": "minor",
     "db": "postgres",
-    "id": "postgres-13.10"
+    "id": "postgres-13.10",
+    "scraped": "2023-04-03"
   },
   {
     "releaseCycle": "13.9",
@@ -266,7 +294,8 @@
     "eol": "2024-01-01",
     "type": "minor",
     "db": "postgres",
-    "id": "postgres-13.9"
+    "id": "postgres-13.9",
+    "scraped": "2023-04-03"
   },
   {
     "releaseCycle": "13.8",
@@ -274,7 +303,8 @@
     "eol": "2023-11-01",
     "type": "minor",
     "db": "postgres",
-    "id": "postgres-13.8"
+    "id": "postgres-13.8",
+    "scraped": "2023-04-03"
   },
   {
     "releaseCycle": "13.7",
@@ -282,7 +312,8 @@
     "eol": "2023-08-01",
     "type": "minor",
     "db": "postgres",
-    "id": "postgres-13.7"
+    "id": "postgres-13.7",
+    "scraped": "2023-04-03"
   },
   {
     "releaseCycle": "13.6",
@@ -290,7 +321,8 @@
     "eol": "2023-03-20",
     "type": "minor",
     "db": "postgres",
-    "id": "postgres-13.6"
+    "id": "postgres-13.6",
+    "scraped": "2023-04-03"
   },
   {
     "releaseCycle": "13.5",
@@ -298,7 +330,8 @@
     "eol": "2023-03-20",
     "type": "minor",
     "db": "postgres",
-    "id": "postgres-13.5"
+    "id": "postgres-13.5",
+    "scraped": "2023-04-03"
   },
   {
     "releaseCycle": "13.4",
@@ -306,7 +339,8 @@
     "eol": "2023-03-20",
     "type": "minor",
     "db": "postgres",
-    "id": "postgres-13.4"
+    "id": "postgres-13.4",
+    "scraped": "2023-04-03"
   },
   {
     "releaseCycle": "13.3",
@@ -314,7 +348,8 @@
     "eol": "2023-03-20",
     "type": "minor",
     "db": "postgres",
-    "id": "postgres-13.3"
+    "id": "postgres-13.3",
+    "scraped": "2023-04-03"
   },
   {
     "releaseCycle": "12.14",
@@ -322,7 +357,8 @@
     "eol": "2024-03-01",
     "type": "minor",
     "db": "postgres",
-    "id": "postgres-12.14"
+    "id": "postgres-12.14",
+    "scraped": "2023-04-03"
   },
   {
     "releaseCycle": "12.13",
@@ -330,7 +366,8 @@
     "eol": "2024-01-01",
     "type": "minor",
     "db": "postgres",
-    "id": "postgres-12.13"
+    "id": "postgres-12.13",
+    "scraped": "2023-04-03"
   },
   {
     "releaseCycle": "12.12",
@@ -338,7 +375,8 @@
     "eol": "2023-11-01",
     "type": "minor",
     "db": "postgres",
-    "id": "postgres-12.12"
+    "id": "postgres-12.12",
+    "scraped": "2023-04-03"
   },
   {
     "releaseCycle": "12.11",
@@ -346,7 +384,8 @@
     "eol": "2023-08-01",
     "type": "minor",
     "db": "postgres",
-    "id": "postgres-12.11"
+    "id": "postgres-12.11",
+    "scraped": "2023-04-03"
   },
   {
     "releaseCycle": "12.10",
@@ -354,7 +393,8 @@
     "eol": "2023-03-20",
     "type": "minor",
     "db": "postgres",
-    "id": "postgres-12.10"
+    "id": "postgres-12.10",
+    "scraped": "2023-04-03"
   },
   {
     "releaseCycle": "12.9",
@@ -362,7 +402,8 @@
     "eol": "2023-03-20",
     "type": "minor",
     "db": "postgres",
-    "id": "postgres-12.9"
+    "id": "postgres-12.9",
+    "scraped": "2023-04-03"
   },
   {
     "releaseCycle": "12.8",
@@ -370,7 +411,8 @@
     "eol": "2023-03-20",
     "type": "minor",
     "db": "postgres",
-    "id": "postgres-12.8"
+    "id": "postgres-12.8",
+    "scraped": "2023-04-03"
   },
   {
     "releaseCycle": "12.7",
@@ -378,7 +420,8 @@
     "eol": "2023-03-20",
     "type": "minor",
     "db": "postgres",
-    "id": "postgres-12.7"
+    "id": "postgres-12.7",
+    "scraped": "2023-04-03"
   },
   {
     "releaseCycle": "11.19",
@@ -386,7 +429,8 @@
     "eol": "2023-11-01",
     "type": "minor",
     "db": "postgres",
-    "id": "postgres-11.19"
+    "id": "postgres-11.19",
+    "scraped": "2023-04-03"
   },
   {
     "releaseCycle": "11.18",
@@ -394,7 +438,8 @@
     "eol": "2023-11-01",
     "type": "minor",
     "db": "postgres",
-    "id": "postgres-11.18"
+    "id": "postgres-11.18",
+    "scraped": "2023-04-03"
   },
   {
     "releaseCycle": "11.17",
@@ -402,7 +447,8 @@
     "eol": "2023-11-01",
     "type": "minor",
     "db": "postgres",
-    "id": "postgres-11.17"
+    "id": "postgres-11.17",
+    "scraped": "2023-04-03"
   },
   {
     "releaseCycle": "11.16",
@@ -410,7 +456,8 @@
     "eol": "2023-08-01",
     "type": "minor",
     "db": "postgres",
-    "id": "postgres-11.16"
+    "id": "postgres-11.16",
+    "scraped": "2023-04-03"
   },
   {
     "releaseCycle": "11.15",
@@ -418,7 +465,8 @@
     "eol": "2023-03-20",
     "type": "minor",
     "db": "postgres",
-    "id": "postgres-11.15"
+    "id": "postgres-11.15",
+    "scraped": "2023-04-03"
   },
   {
     "releaseCycle": "11.14",
@@ -426,7 +474,8 @@
     "eol": "2023-03-20",
     "type": "minor",
     "db": "postgres",
-    "id": "postgres-11.14"
+    "id": "postgres-11.14",
+    "scraped": "2023-04-03"
   },
   {
     "releaseCycle": "11.13",
@@ -434,7 +483,8 @@
     "eol": "2023-03-20",
     "type": "minor",
     "db": "postgres",
-    "id": "postgres-11.13"
+    "id": "postgres-11.13",
+    "scraped": "2023-04-03"
   },
   {
     "releaseCycle": "11.12",
@@ -442,7 +492,8 @@
     "eol": "2023-03-20",
     "type": "minor",
     "db": "postgres",
-    "id": "postgres-11.12"
+    "id": "postgres-11.12",
+    "scraped": "2023-04-03"
   },
   {
     "releaseCycle": "10.23",
@@ -450,7 +501,8 @@
     "eol": "2023-04-17",
     "type": "minor",
     "db": "postgres",
-    "id": "postgres-10.23"
+    "id": "postgres-10.23",
+    "scraped": "2023-04-03"
   },
   {
     "releaseCycle": "10.22",
@@ -458,7 +510,8 @@
     "eol": "2023-04-17",
     "type": "minor",
     "db": "postgres",
-    "id": "postgres-10.22"
+    "id": "postgres-10.22",
+    "scraped": "2023-04-03"
   },
   {
     "releaseCycle": "10.21",
@@ -466,7 +519,8 @@
     "eol": "2023-04-17",
     "type": "minor",
     "db": "postgres",
-    "id": "postgres-10.21"
+    "id": "postgres-10.21",
+    "scraped": "2023-04-03"
   },
   {
     "releaseCycle": "10.20",
@@ -474,7 +528,8 @@
     "eol": "2023-03-20",
     "type": "minor",
     "db": "postgres",
-    "id": "postgres-10.20"
+    "id": "postgres-10.20",
+    "scraped": "2023-04-03"
   },
   {
     "releaseCycle": "10.19",
@@ -482,7 +537,8 @@
     "eol": "2023-03-20",
     "type": "minor",
     "db": "postgres",
-    "id": "postgres-10.19"
+    "id": "postgres-10.19",
+    "scraped": "2023-04-03"
   },
   {
     "releaseCycle": "10.18",
@@ -490,7 +546,8 @@
     "eol": "2023-03-20",
     "type": "minor",
     "db": "postgres",
-    "id": "postgres-10.18"
+    "id": "postgres-10.18",
+    "scraped": "2023-04-03"
   },
   {
     "releaseCycle": "10.17",
@@ -498,6 +555,7 @@
     "eol": "2023-03-20",
     "type": "minor",
     "db": "postgres",
-    "id": "postgres-10.17"
+    "id": "postgres-10.17",
+    "scraped": "2023-04-03"
   }
 ]

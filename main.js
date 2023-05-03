@@ -128,9 +128,12 @@ for (const [db, url] of Object.entries(dbs)) {
     release.latest =  release.latest
   }
   const allVersions = [...minors, ...majors]
+
+  const iso = new Date().toISOString().split('T')[0]
   for (const release of allVersions) {
     release.db = db
     release.id = `${db}-${release.releaseCycle}`
+    release.scraped = iso
   }
 
   allData.push(...allVersions)
