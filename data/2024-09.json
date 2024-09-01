@@ -1,0 +1,231 @@
+[
+  {
+    "releaseCycle": "8.0.39",
+    "releaseDate": "2024-08-12",
+    "eol": "2025-09-01",
+    "type": "minor",
+    "db": "mysql",
+    "id": "mysql-8.0.39",
+    "scraped": "2024-09-01"
+  },
+  {
+    "releaseCycle": "8.0.37",
+    "releaseDate": "2024-06-18",
+    "eol": "2025-09-01",
+    "type": "minor",
+    "db": "mysql",
+    "id": "mysql-8.0.37",
+    "scraped": "2024-09-01"
+  },
+  {
+    "releaseCycle": "8.0.36",
+    "releaseDate": "2024-02-12",
+    "eol": "2025-03-01",
+    "type": "minor",
+    "db": "mysql",
+    "id": "mysql-8.0.36",
+    "scraped": "2024-09-01"
+  },
+  {
+    "releaseCycle": "8.0.35",
+    "releaseDate": "2023-11-09",
+    "eol": "2025-03-01",
+    "type": "minor",
+    "db": "mysql",
+    "id": "mysql-8.0.35",
+    "scraped": "2024-09-01"
+  },
+  {
+    "releaseCycle": "8.0.34",
+    "releaseDate": "2023-08-09",
+    "eol": "2025-03-01",
+    "type": "minor",
+    "db": "mysql",
+    "id": "mysql-8.0.34",
+    "scraped": "2024-09-01"
+  },
+  {
+    "releaseCycle": "8.0.33",
+    "releaseDate": "2023-06-15",
+    "eol": "2025-03-01",
+    "type": "minor",
+    "db": "mysql",
+    "id": "mysql-8.0.33",
+    "scraped": "2024-09-01"
+  },
+  {
+    "releaseCycle": "8.0.32",
+    "releaseDate": "2023-02-07",
+    "eol": "2025-03-01",
+    "type": "minor",
+    "db": "mysql",
+    "id": "mysql-8.0.32",
+    "scraped": "2024-09-01"
+  },
+  {
+    "releaseCycle": "8.0",
+    "releaseDate": "2018-10-23",
+    "eol": "2026-07-31",
+    "type": "major",
+    "db": "mysql",
+    "id": "mysql-8.0",
+    "scraped": "2024-09-01"
+  },
+  {
+    "releaseCycle": "5.7",
+    "releaseDate": "2016-02-22",
+    "eol": "2024-02-29",
+    "type": "major",
+    "db": "mysql",
+    "id": "mysql-5.7",
+    "scraped": "2024-09-01"
+  },
+  {
+    "releaseCycle": "16",
+    "releaseDate": "2023-11-17",
+    "eol": "2029-02-28",
+    "type": "major",
+    "db": "postgres",
+    "id": "postgres-16",
+    "scraped": "2024-09-01"
+  },
+  {
+    "releaseCycle": "15",
+    "releaseDate": "2023-02-27",
+    "eol": "2028-02-29",
+    "type": "major",
+    "db": "postgres",
+    "id": "postgres-15",
+    "scraped": "2024-09-01"
+  },
+  {
+    "releaseCycle": "14",
+    "releaseDate": "2022-02-03",
+    "eol": "2027-02-28",
+    "type": "major",
+    "db": "postgres",
+    "id": "postgres-14",
+    "scraped": "2024-09-01"
+  },
+  {
+    "releaseCycle": "13",
+    "releaseDate": "2021-02-24",
+    "eol": "2026-02-28",
+    "type": "major",
+    "db": "postgres",
+    "id": "postgres-13",
+    "scraped": "2024-09-01"
+  },
+  {
+    "releaseCycle": "12",
+    "releaseDate": "2020-03-31",
+    "eol": "2025-02-28",
+    "type": "major",
+    "db": "postgres",
+    "id": "postgres-12",
+    "scraped": "2024-09-01"
+  },
+  {
+    "releaseCycle": "11",
+    "releaseDate": "2019-03-13",
+    "eol": "2024-02-29",
+    "type": "major",
+    "db": "postgres",
+    "id": "postgres-11",
+    "scraped": "2024-09-01"
+  },
+  {
+    "latest": "",
+    "releaseCycle": "10",
+    "releaseDate": "2018-02-27",
+    "eol": "2023-04-01",
+    "type": "major",
+    "db": "postgres",
+    "id": "postgres-10",
+    "scraped": "2024-09-01"
+  },
+  {
+    "latest": "",
+    "releaseCycle": "9.6",
+    "releaseDate": "2016-11-11",
+    "eol": "2022-04-30",
+    "type": "major",
+    "db": "postgres",
+    "id": "postgres-9.6",
+    "scraped": "2024-09-01"
+  },
+  {
+    "releaseCycle": "16",
+    "releaseDate": "2023-11-17",
+    "eol": "2029-02-28",
+    "type": "major",
+    "db": "postgres",
+    "id": "postgres-16",
+    "scraped": "2024-09-01"
+  },
+  {
+    "releaseCycle": "15",
+    "releaseDate": "2023-02-27",
+    "eol": "2028-02-29",
+    "type": "major",
+    "db": "postgres",
+    "id": "postgres-15",
+    "scraped": "2024-09-01"
+  },
+  {
+    "releaseCycle": "14",
+    "releaseDate": "2022-02-03",
+    "eol": "2027-02-28",
+    "type": "major",
+    "db": "postgres",
+    "id": "postgres-14",
+    "scraped": "2024-09-01"
+  },
+  {
+    "releaseCycle": "13",
+    "releaseDate": "2021-02-24",
+    "eol": "2026-02-28",
+    "type": "major",
+    "db": "postgres",
+    "id": "postgres-13",
+    "scraped": "2024-09-01"
+  },
+  {
+    "releaseCycle": "12",
+    "releaseDate": "2020-03-31",
+    "eol": "2025-02-28",
+    "type": "major",
+    "db": "postgres",
+    "id": "postgres-12",
+    "scraped": "2024-09-01"
+  },
+  {
+    "releaseCycle": "11",
+    "releaseDate": "2019-03-13",
+    "eol": "2024-02-29",
+    "type": "major",
+    "db": "postgres",
+    "id": "postgres-11",
+    "scraped": "2024-09-01"
+  },
+  {
+    "latest": "",
+    "releaseCycle": "10",
+    "releaseDate": "2018-02-27",
+    "eol": "2023-04-01",
+    "type": "major",
+    "db": "postgres",
+    "id": "postgres-10",
+    "scraped": "2024-09-01"
+  },
+  {
+    "latest": "",
+    "releaseCycle": "9.6",
+    "releaseDate": "2016-11-11",
+    "eol": "2022-04-30",
+    "type": "major",
+    "db": "postgres",
+    "id": "postgres-9.6",
+    "scraped": "2024-09-01"
+  }
+]
